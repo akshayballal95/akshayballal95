@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayballal95)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **akshayballal95/akshayballal95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
