@@ -2,7 +2,7 @@
 
 I am Akshay Ballal, co-author of [EmbedAnything](https://github.com/StarlightSearch/EmbedAnything), a blazing fast embedding creation library written in Rust and distributed in Python. 
 
-I am a Masters student at Technical University of Eindhoven in Artificial Intelligence. I write about AI/ML on [Medium](https://medium.com/@akshayballal95).
+I am a Machine Learning Researcher at ASML. I write about AI/ML on [Medium](https://medium.com/@akshayballal95).
 
 [![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayballal95&theme=react&show_icons=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 
